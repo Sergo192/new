@@ -1,5 +1,6 @@
 {
-	"name": "Sergo192",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Sergo192"
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -7,7 +8,6 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author": "Sergo192",
 	"engines": {
 		"node": "8.11.2"
 	},
